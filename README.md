@@ -82,4 +82,4 @@ npm run dev
 
 ## 🧑🏻‍💻 Author
 
-**Feito por:** [Marcos Henrique](https://github.com/xmahenri)
+**Made by:** [Marcos Henrique](https://github.com/xmahenri)
